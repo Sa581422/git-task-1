@@ -1,3 +1,2 @@
 # git-task-1
-how are you
-how are you
+# Yeni satır 
